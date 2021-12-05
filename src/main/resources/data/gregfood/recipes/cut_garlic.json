@@ -1,0 +1,8 @@
+{
+    "type": "gregfood:cutting",
+    "ingredient": {
+        "item": "gregfood:garlic"
+    },
+    "result": "gregfood:cut_garlic",
+    "counts":2
+}

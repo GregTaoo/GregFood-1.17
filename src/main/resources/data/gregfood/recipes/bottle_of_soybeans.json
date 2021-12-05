@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "minecraft:glass_bottle"
+            },
+            {
+                "item": "gregfood:soybean"
+            },
+            {
+                "item": "gregfood:soybean"
+            },
+            {
+                "item": "gregfood:soybean"
+            },
+            {
+                "item": "gregfood:soybean"
+            }
+  ],
+  "result": {
+    "item": "gregfood:bottle_of_soybeans",
+    "count":1
+  }
+}

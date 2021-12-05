@@ -1,0 +1,13 @@
+{
+    "type": "gregfood:dough_making",
+    "ingredient": {
+        "item": "gregfood:noodle_mold"
+    },
+    "ingredient2": {
+        "item": "gregfood:dough_piece"
+    },
+    "result": "gregfood:noodle",
+    "counts": 1,
+    "amount": false,
+    "actionNum": 5
+}

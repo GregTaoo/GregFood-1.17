@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item":"gregfood:cooked_fried_egg"
+            }
+  ],
+  "result": {
+    "item": "gregfood:fried_egg",
+    "count":5
+  }
+}

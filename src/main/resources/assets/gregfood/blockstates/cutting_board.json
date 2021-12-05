@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gregfood:block/cutting_board"
+    },
+    "facing=south": {
+      "model": "gregfood:block/cutting_board"
+    },
+    "facing=east": {
+      "model": "gregfood:block/cutting_board",
+      "y":90
+    },
+    "facing=west": {
+      "model": "gregfood:block/cutting_board",
+      "y":90
+    }
+  }
+}

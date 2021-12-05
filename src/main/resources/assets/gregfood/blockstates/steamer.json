@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "gregfood:block/steamer"
+    },
+    "lit=true": {
+      "model": "gregfood:block/steamer_on"
+    }
+  }
+}

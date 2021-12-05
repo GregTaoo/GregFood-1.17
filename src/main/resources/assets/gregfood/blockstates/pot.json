@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "gregfood:block/pot",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "gregfood:block/pot",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "gregfood:block/pot"
+    },
+    "facing=west": {
+      "model": "gregfood:block/pot",
+      "y": 90
+    }
+  }
+}

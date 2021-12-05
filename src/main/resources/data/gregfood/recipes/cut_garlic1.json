@@ -1,0 +1,10 @@
+{
+    "type": "gregfood:board_cutting",
+    "ingredient": {
+        "item": "gregfood:garlic"
+    },
+    "result": "gregfood:cut_garlic",
+    "experience": 1,
+    "cookingtime": 10,
+    "counts":3
+}

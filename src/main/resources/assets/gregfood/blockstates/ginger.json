@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "gregfood:block/ginger0"
+    },
+    "age=1": {
+      "model": "gregfood:block/ginger1"
+    },
+    "age=2": {
+      "model": "gregfood:block/ginger2"
+    },
+    "age=3": {
+      "model": "gregfood:block/ginger3"
+    }
+  }
+}

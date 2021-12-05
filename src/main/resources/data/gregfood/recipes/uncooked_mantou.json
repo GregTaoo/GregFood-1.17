@@ -1,0 +1,13 @@
+{
+    "type": "gregfood:dough_making",
+    "ingredient": {
+        "item": "minecraft:honey_bottle"
+    },
+    "ingredient2": {
+        "item": "gregfood:dough"
+    },
+    "result": "gregfood:uncooked_mantou",
+    "counts": 1,
+    "amount": true,
+    "actionNum": 2
+}

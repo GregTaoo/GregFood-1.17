@@ -1,0 +1,10 @@
+{
+    "type": "gregfood:grinding",
+    "ingredient": {
+        "item": "minecraft:wheat"
+    },
+    "result": "gregfood:wheat_flour",
+    "experience": 1,
+    "cookingtime": 60,
+    "counts":3
+}

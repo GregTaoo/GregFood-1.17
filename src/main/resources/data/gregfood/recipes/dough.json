@@ -1,0 +1,13 @@
+{
+    "type": "gregfood:dough_making",
+    "ingredient": {
+        "item": "minecraft:potion"
+    },
+    "ingredient2": {
+        "item": "gregfood:wheat_flour"
+    },
+    "result": "gregfood:dough",
+    "counts": 1,
+    "amount": true,
+    "actionNum": 3
+}

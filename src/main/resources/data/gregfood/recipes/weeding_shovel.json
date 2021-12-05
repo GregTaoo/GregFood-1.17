@@ -1,0 +1,22 @@
+{
+"type":"minecraft:crafting_shaped",
+"pattern":[
+"#X#",
+" S ",
+" S "
+],
+"key":{
+"#":{
+"tag":"minecraft:planks"
+},
+"S":{
+"item":"minecraft:stick"
+},
+"X":{
+"item":"minecraft:bowl"
+}
+},
+"result":{
+"item":"gregfood:weeding_shovel"
+}
+}

@@ -1,0 +1,10 @@
+{
+    "type": "gregfood:steaming",
+    "ingredient": {
+        "item": "gregfood:uncooked_mantou"
+    },
+    "result": "gregfood:mantou",
+    "experience": 2,
+    "cookingtime": 100,
+    "counts":1
+}

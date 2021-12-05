@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "gregfood:salt_bucket"
+            }
+  ],
+  "result": {
+    "item": "gregfood:salt",
+    "count":8
+  }
+}

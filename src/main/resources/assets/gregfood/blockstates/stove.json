@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "gregfood:block/stove"
+    },
+    "lit=true": {
+      "model": "gregfood:block/stove_on"
+    }
+  }
+}

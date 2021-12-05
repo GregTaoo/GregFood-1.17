@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item":"gregfood:bottle_of_tea_seeds"
+    },
+    "result": "gregfood:oil_bottle",
+    "experience": 2,
+    "cookingtime": 200
+}

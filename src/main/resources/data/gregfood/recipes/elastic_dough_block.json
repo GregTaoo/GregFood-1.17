@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "minecraft:slime_block"
+            },
+            {
+                "item": "gregfood:dough_block"
+            },
+            {
+                "item":"minecraft:honey_block"
+            },
+            {
+                "item":"minecraft:sugar"
+            }
+  ],
+  "result": {
+    "item": "gregfood:elastic_dough_block",
+    "count":2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "gregfood:block/grinder"
+    },
+    "lit=true": {
+      "model": "gregfood:block/grinder_on"
+    }
+  }
+}

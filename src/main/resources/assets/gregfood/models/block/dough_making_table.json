@@ -1,0 +1,24 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "gregfood:block/dough_making_table_top",
+        "0": "gregfood:block/dough_making_table_side",
+        "1": "gregfood:block/dough_making_table_top",
+        "2": "gregfood:block/dough_making_table_bottom"
+    },
+    "elements": [
+        {
+            "name": "main1",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 4.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 4.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 4.0, 16.0, 8.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 4.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 4.0 ] },
+                "up": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "down": { "texture": "#2", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        }
+    ]
+}

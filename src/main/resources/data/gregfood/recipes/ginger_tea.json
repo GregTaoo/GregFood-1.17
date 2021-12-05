@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "gregfood:cut_ginger"
+            }
+  ],
+  "result": {
+    "item": "gregfood:ginger_tea",
+    "count":1
+  }
+}

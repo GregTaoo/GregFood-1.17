@@ -1,0 +1,15 @@
+{
+  "type": "gregfood:frying",
+  "ingredient": [
+          {
+                "item":"minecraft:egg"
+          },
+          {
+                "item":"gregfood:uncooked_tea_egg"
+          }
+  ],
+  "time":200,
+  "steps":5,
+  "result": "gregfood:fried_egg",
+  "inventory": "HOLDABLE"
+}

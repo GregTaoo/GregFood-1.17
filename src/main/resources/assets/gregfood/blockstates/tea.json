@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "gregfood:block/tea0"
+    },
+    "age=1": {
+      "model": "gregfood:block/tea1"
+    },
+    "age=2": {
+      "model": "gregfood:block/tea2"
+    },
+    "age=3": {
+      "model": "gregfood:block/tea3"
+    }
+  }
+}

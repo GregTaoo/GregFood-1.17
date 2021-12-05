@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:logs"
+    }, 
+    "B":{
+      "item":"minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gregfood:cutting_board",
+    "count": 1
+  }
+}

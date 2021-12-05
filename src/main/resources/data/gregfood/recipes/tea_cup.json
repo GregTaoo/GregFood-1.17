@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#A#",
+    "ABA",
+    "#A#"
+  ],
+  "key": {
+    "#": {
+      "item": "gregfood:tea"
+    },
+    "A": {
+      "item": "minecraft:glass_bottle"
+    },
+    "B": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "gregfood:tea_cup",
+    "count":4
+  }
+}

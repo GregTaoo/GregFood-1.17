@@ -1,0 +1,36 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "gregfood:green_onion_leaf"
+            },
+            {
+                "item":"gregfood:tea_root"
+            },
+            {
+                "item":"gregfood:tea"
+            },
+            {
+                "item":"gregfood:salt_block"
+            },
+            {
+                "item":"gregfood:soybean"
+            },
+            {
+                "item":"gregfood:rice"
+            },
+            {
+                "item":"minecraft:carrot"
+            },
+            {
+                "item":"minecraft:potato"
+            },
+            {
+                "item":"minecraft:beetroot"
+            }
+  ],
+  "result": {
+    "item": "gregfood:brining_ingredient",
+    "count":1
+  }
+}

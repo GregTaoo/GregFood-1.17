@@ -1,0 +1,36 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item":"gregfood:green_onion_leaf"
+            },
+            {
+                "item":"gregfood:oil_bottle"
+            },
+            {
+                "item":"gregfood:salt"
+            },
+            {
+                "item":"gregfood:pot"
+            },
+            {
+                "item":"minecraft:egg"
+            },
+            {
+                "item":"minecraft:egg"
+            },
+            {
+                "item":"minecraft:egg"
+            },
+            {
+                "item":"minecraft:egg"
+            },
+            {
+                "item":"minecraft:egg"
+            }
+  ],
+  "result": {
+    "item": "gregfood:uncooked_fried_egg",
+    "count":1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gregfood:block/garlic_rooted_dirt_top",
+    "side": "gregfood:block/garlic_rooted_dirt3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "gregfood:fried_egg"
+            },
+            {
+                "item": "gregfood:noodle"
+            },
+            {
+                "item":"gregfood:salt"
+            },
+            {
+                "item":"gregfood:plate"
+            },
+            {
+                "item":"minecraft:carrot"
+            },
+            {
+                "item":"minecraft:potato"
+            },
+            {
+                "item":"gregfood:oil_bottle"
+            },
+            {
+                "item":"gregfood:green_onion_leaf"
+            },
+            {
+                "item":"gregfood:cut_garlic"
+            }
+  ],
+  "result": {
+    "item": "gregfood:uncooked_fried_noodles",
+    "count":1
+  }
+}

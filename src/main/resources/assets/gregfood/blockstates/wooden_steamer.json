@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "gregfood:block/wooden_steamer_bottom"
+    },
+    "type=double": {
+      "model": "gregfood:block/wooden_steamer_double"
+    },
+    "type=top": {
+      "model": "gregfood:block/wooden_steamer_bottom"
+    }
+  }
+}

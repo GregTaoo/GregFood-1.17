@@ -1,0 +1,36 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "gregfood:salt"
+            },
+            {
+                "item": "minecraft:bucket"
+            },
+            {
+                "item": "gregfood:salt"
+            },
+            {
+                "item": "gregfood:salt"
+            },
+            {
+                "item": "gregfood:salt"
+            },
+            {
+                "item": "gregfood:salt"
+            },
+            {
+                "item": "gregfood:salt"
+            },
+            {
+                "item": "gregfood:salt"
+            },
+            {
+                "item": "gregfood:salt"
+            }
+  ],
+  "result": {
+    "item": "gregfood:salt_bucket",
+    "count":1
+  }
+}

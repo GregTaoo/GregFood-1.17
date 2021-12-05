@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "gregfood:elastic_dough_block"
+    },
+    "result": "gregfood:dough_block",
+    "experience": 3,
+    "cookingtime": 600
+}

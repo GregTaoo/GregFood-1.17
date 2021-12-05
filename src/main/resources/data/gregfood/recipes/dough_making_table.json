@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BAB",
+    "BCB"
+  ],
+  "key": {
+    "B": {
+      "tag": "minecraft:logs"
+    }, 
+    "A":{
+      "item":"minecraft:stone"
+    },
+    "C":{
+      "item":"minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "gregfood:dough_making_table",
+    "count": 1
+  }
+}

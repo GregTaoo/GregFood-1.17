@@ -1,0 +1,89 @@
+{
+    "parent":"block/block",
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "block/cauldron_inner",
+        "0": "block/cauldron_inner",
+        "1": "block/oak_log"
+    },
+    "elements": [
+        {
+            "name": "bottom",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 1.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 1.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 1.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 1.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 1.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0.0, 1.0, 0.0 ], 
+            "to": [ 15.0, 5.0, 1.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 1.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 1.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 1.0, 1.0, 15.0 ], 
+            "to": [ 16.0, 5.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 1.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 1.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0.0, 1.0, 1.0 ], 
+            "to": [ 1.0, 5.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 15.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 15.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 15.0, 1.0, 0.0 ], 
+            "to": [ 16.0, 5.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 4.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "south": { "texture": "#0", "uv": [ 2.0, 6.0, 3.0, 10.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 15.0, 4.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 15.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 15.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.0, 3.0, 16.0 ], 
+            "to": [ 9.0, 5.0, 20.0 ], 
+            "faces": {
+                "north": { "texture": "#1", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 6.0, 4.0, 8.0 ] },
+                "south": { "texture": "#1", "uv": [ 0.0, 0.0, 2.0, 2.0 ] },
+                "west": { "texture": "#1", "uv": [ 0.0, 0.0, 4.0, 2.0 ] },
+                "up": { "texture": "#1", "uv": [ 0.0, 0.0, 2.0, 4.0 ] },
+                "down": { "texture": "#1", "uv": [ 0.0, 0.0, 2.0, 4.0 ] }
+            }
+        }
+    ]
+}

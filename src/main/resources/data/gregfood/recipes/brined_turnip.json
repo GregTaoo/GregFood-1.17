@@ -1,0 +1,8 @@
+{
+    "type": "gregfood:brining",
+    "ingredient": {
+        "item": "gregfood:turnip"
+    },
+    "result": "gregfood:brined_turnip",
+    "counts":1
+}

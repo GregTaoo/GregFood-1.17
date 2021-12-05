@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "gregfood:uncooked_fried_noodles"
+    },
+    "result": "gregfood:fried_noodles",
+    "experience": 1,
+    "cookingtime": 100
+}

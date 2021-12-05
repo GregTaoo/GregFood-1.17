@@ -1,0 +1,36 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "minecraft:milk_bucket"
+            },
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "gregfood:tea_cup"
+            },
+            {
+                "item": "gregfood:tea_cup"
+            }
+  ],
+  "result": {
+    "item": "gregfood:milk_tea",
+    "count":8
+  }
+}

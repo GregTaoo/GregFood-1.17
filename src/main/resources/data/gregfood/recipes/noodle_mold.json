@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "X X",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    }, 
+    "X":{
+      "item":"minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gregfood:noodle_mold",
+    "count": 1
+  }
+}

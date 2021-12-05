@@ -1,0 +1,10 @@
+{
+    "type": "gregfood:board_cutting",
+    "ingredient": {
+        "item": "gregfood:green_onion_leaf"
+    },
+    "result": "gregfood:green_onion",
+    "experience": 1,
+    "cookingtime": 10,
+    "counts":3
+}

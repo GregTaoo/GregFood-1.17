@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "gregfood:biscuit_embryo"
+    },
+    "result": "gregfood:biscuit",
+    "experience": 1,
+    "cookingtime": 100
+}

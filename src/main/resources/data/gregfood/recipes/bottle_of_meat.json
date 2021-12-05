@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass_bottle"
+    },
+    "X": [
+      {
+        "item": "minecraft:porkchop"
+      },
+      {
+        "item": "minecraft:beef"
+      },
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "item": "minecraft:rabbit"
+      },
+      {
+        "item": "minecraft:mutton"
+      }
+    ]
+  },
+  "result": {
+    "item": "gregfood:bottle_of_meat",
+    "count":1
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "gregfood:dough_making",
+    "ingredient": {
+        "item": "gregfood:rolling_pin"
+    },
+    "ingredient2": {
+        "item": "gregfood:dough"
+    },
+    "result": "gregfood:dough_piece",
+    "counts": 2,
+    "amount": false,
+    "actionNum": 10
+}

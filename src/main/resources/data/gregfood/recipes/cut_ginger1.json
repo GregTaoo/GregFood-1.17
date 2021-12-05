@@ -1,0 +1,10 @@
+{
+    "type": "gregfood:board_cutting",
+    "ingredient": {
+        "item": "gregfood:ginger"
+    },
+    "result": "gregfood:cut_ginger",
+    "experience": 1,
+    "cookingtime": 15,
+    "counts":2
+}

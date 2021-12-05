@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "level=1": {
+      "model": "gregfood:block/knife_table_worst"
+    },
+    "level=2": {
+      "model": "gregfood:block/knife_table_worst"
+    },
+    "level=3": {
+      "model": "gregfood:block/knife_table_worst"
+    },
+    "level=4": {
+      "model": "gregfood:block/knife_table_worst"
+    },
+    "level=5": {
+      "model": "gregfood:block/knife_table_worst"
+    },
+    "level=6": {
+      "model": "gregfood:block/knife_table_middle"
+    },
+    "level=7": {
+      "model": "gregfood:block/knife_table_middle"
+    },
+    "level=8": {
+      "model": "gregfood:block/knife_table_middle"
+    },
+    "level=9": {
+      "model": "gregfood:block/knife_table_middle"
+    },
+    "level=10": {
+      "model": "gregfood:block/knife_table_middle"
+    },
+    "level=11": {
+      "model": "gregfood:block/knife_table_middle"
+    },
+    "level=12": {
+      "model": "gregfood:block/knife_table_best"
+    },
+    "level=13": {
+      "model": "gregfood:block/knife_table_best"
+    },
+    "level=14": {
+      "model": "gregfood:block/knife_table_best"
+    },
+    "level=15": {
+      "model": "gregfood:block/knife_table_best"
+    },
+    "level=0": {
+      "model": "gregfood:block/knife_table_none"
+    }
+  }
+}

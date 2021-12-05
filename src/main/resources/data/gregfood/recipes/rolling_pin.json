@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    }, 
+    "X":{
+      "item":"minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gregfood:rolling_pin",
+    "count": 1
+  }
+}

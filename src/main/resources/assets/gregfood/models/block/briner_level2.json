@@ -1,0 +1,14 @@
+{
+    "textures": {
+        "particle": "gregfood:block/briner_compost",
+        "inside": "block/water_still"
+    },
+    "elements": [
+        {   "from": [ 2, 0, 2 ],
+            "to": [ 14, 5, 14 ],
+            "faces": {
+                "up": { "texture": "#inside", "cullface": "up" }
+            }
+        }
+    ]
+}

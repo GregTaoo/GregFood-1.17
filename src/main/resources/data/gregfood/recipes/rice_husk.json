@@ -1,0 +1,8 @@
+{
+    "type": "gregfood:cutting",
+    "ingredient": {
+        "item": "gregfood:paddy"
+    },
+    "result": "gregfood:rice_husk",
+    "counts":3
+}

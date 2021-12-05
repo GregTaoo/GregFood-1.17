@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "gregfood",
+  "version": "${version}",
+
+  "name": "GregFood",
+  "description": "emmmm,food!!!Enjoy yourselves!",
+  "authors": [
+    "GregTaoo"
+  ],
+  "contact": {
+    "homepage": "https://github.com/gregtaoo/gregfood-for-fabric",
+    "sources": "https://github.com/gregtaoo/gregfood-for-fabric"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/gregfood/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.gregtaoo.gregfood"
+    ],
+    "client": [
+      "com.github.gregtaoo.gregfoodclient"
+    ]
+  },
+  "mixins": [
+    "gregfood.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.17.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

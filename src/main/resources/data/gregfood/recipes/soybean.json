@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+            {
+                "item":"gregfood:bottle_of_soybeans"
+            }
+  ],
+  "result": {
+    "item": "gregfood:soybean",
+    "count":8
+  }
+}

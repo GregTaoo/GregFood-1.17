@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "gregfood:shell"
+    },
+    "result": "gregfood:fried_shell",
+    "experience": 3,
+    "cookingtime": 100
+}

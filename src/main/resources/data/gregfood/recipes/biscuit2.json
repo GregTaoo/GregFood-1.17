@@ -1,0 +1,8 @@
+{
+    "type": "gregfood:cutting",
+    "ingredient": {
+        "item": "gregfood:biscuit_block"
+    },
+    "result": "gregfood:biscuit",
+    "counts": 9
+}

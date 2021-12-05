@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "B B",
+    "BAB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cauldron"
+    }, 
+    "B":{
+      "item":"minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "gregfood:evaporating_pan",
+    "count": 1
+  }
+}

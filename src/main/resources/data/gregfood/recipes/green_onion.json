@@ -1,0 +1,8 @@
+{
+    "type": "gregfood:cutting",
+    "ingredient": {
+        "item": "gregfood:green_onion_leaf"
+    },
+    "result": "gregfood:green_onion",
+    "counts":3
+}

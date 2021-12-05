@@ -1,0 +1,23 @@
+{
+"type":"minecraft:crafting_shaped",
+"pattern":[
+"# #",
+"A A",
+"BBB"
+],
+"key":{
+"#":{
+"tag":"minecraft:planks"
+},
+"A":{
+"item":"minecraft:iron_ingot"
+},
+"B":{
+"item":"minecraft:stone"
+}
+},
+"result":{
+"item":"gregfood:briner",
+"count":1
+}
+}

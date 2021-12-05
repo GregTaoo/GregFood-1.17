@@ -1,0 +1,8 @@
+{
+    "type": "gregfood:brining",
+    "ingredient": {
+        "item": "minecraft:cooked_porkchop"
+    },
+    "result": "gregfood:brined_pork",
+    "counts":1
+}

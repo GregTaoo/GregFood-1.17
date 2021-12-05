@@ -1,0 +1,8 @@
+{
+    "type": "gregfood:cutting",
+    "ingredient": {
+        "item": "gregfood:ginger"
+    },
+    "result": "gregfood:cut_ginger",
+    "counts":1
+}

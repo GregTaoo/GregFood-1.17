@@ -1,0 +1,10 @@
+{
+    "type": "gregfood:grinding",
+    "ingredient": {
+        "item": "gregfood:rice_husk"
+    },
+    "result": "gregfood:rice",
+    "experience": 1,
+    "cookingtime": 100,
+    "counts":1
+}

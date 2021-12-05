@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gregfood:block/ginger_rooted_dirt_top",
+    "side": "gregfood:block/ginger_rooted_dirt1"
+  }
+}

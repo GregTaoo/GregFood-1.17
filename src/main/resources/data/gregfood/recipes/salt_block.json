@@ -1,0 +1,15 @@
+{
+"type":"minecraft:crafting_shaped",
+"pattern":[
+"AA",
+"AA"
+],
+"key":{
+"A":{
+"item":"gregfood:salt_bucket"
+}},
+"result":{
+"item":"gregfood:salt_block",
+"count":1
+}
+}

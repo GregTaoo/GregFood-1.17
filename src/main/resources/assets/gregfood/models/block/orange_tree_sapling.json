@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gregfood:block/orange_tree_sapling"
+  }
+}
